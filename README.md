@@ -45,7 +45,7 @@ Transferimi i skedarit: Klienti zgjedh një skedar për transferim, e enkripton 
 Verifikimi i nënshkrimit dhe marrja e skedarit: Serveri verifikon nënshkrimin e skedarit dhe pastaj e ruaj skedarin në server.
 
 6. Referencat
-[1] Oracle. "Java Cryptography Architecture (JCA) Reference Guide." Online. Accessed May 22, 2024.
-[2] Baeldung. "RSA Encryption and Decryption in Java." Online. Accessed May 22, 2024.
-[3] Baeldung. "AES Encryption and Decryption in Java." Online. Accessed May 22, 2024.
-[4] Baeldung. "Digital Signatures in Java." Online. Accessed May 22, 2024.
+[1] Oracle. "Java Cryptography Architecture (JCA) Reference Guide." Online. Accessed May 15, 2024.
+[2] Baeldung. "RSA Encryption and Decryption in Java." Online. Accessed May 10, 2024.
+[3] Baeldung. "AES Encryption and Decryption in Java." Online. Accessed May 16, 2024.
+[4] Baeldung. "Digital Signatures in Java." Online. Accessed May 20, 2024.
