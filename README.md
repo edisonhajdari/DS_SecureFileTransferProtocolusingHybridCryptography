@@ -49,3 +49,7 @@ Verifikimi i nënshkrimit dhe marrja e skedarit: Serveri verifikon nënshkrimin 
 [2] Baeldung. "RSA Encryption and Decryption in Java." Online. Accessed May 10, 2024.
 [3] Baeldung. "AES Encryption and Decryption in Java." Online. Accessed May 16, 2024.
 [4] Baeldung. "Digital Signatures in Java." Online. Accessed May 20, 2024.
+
+<img width="337" alt="image" src="https://github.com/edisonhajdari/DS_SecureFileTransferProtocolusingHybridCryptography/assets/59052307/0a4b4085-9150-41c4-8623-9726fa530b8f">
+
+<img width="270" alt="image" src="https://github.com/edisonhajdari/DS_SecureFileTransferProtocolusingHybridCryptography/assets/59052307/c2c9e9e9-1c42-4e17-b7f5-c0e0ed980640">
